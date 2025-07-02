@@ -46,10 +46,10 @@
 <img align="right" alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxtbDNqOXJtNGFrNmo2Y2ZkZnljNTJyaWt6YWw1eWJmODVmbXNrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="300" height="350" style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
   
-Hello! I'm **Arpit Sachin Kadam**, a passionate third-year student at Mumbai University specializing in AI/ML. I love turning complex problems into elegant solutions using cutting-edge technologies. 
+Hello! I'm **Arpit Sachin Kadam**, a passionate last year (fourth-year) student at Mumbai University specializing in AI/ML. I love turning complex problems into elegant solutions using cutting-edge technologies. 
 
 - 🔭 Currently working on: *Generative AI & Computer Vision Projects*
-- 🌱 Learning: *Docker, OpenCV, GenAI, AWS*
+- 🌱 Learning: *OpenCV, GenAI, AWS*
 - 👯 Looking to collaborate on: *AI/ML Projects & Research*
 - 💡 Interests: *Machine Learning, Deep Learning, Computer Vision, NLP*
 - ⚡ Fun fact: *I'm an Otaku who loves coding! 🍜*
