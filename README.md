@@ -16,9 +16,9 @@
 </div>
 
 <div align="center" style="margin: 30px 0">
-  <img src="https://github.com/ArpitKadam/arpit_kadam/blob/main/business-card-front.png" alt="Business Card" width="400px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/ArpitKadam/ArpitKadam/blob/main/1.png" alt="Business Card" width="400px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p style="margin-top: 10px; font-style: italic;">📱 Scan the QR code on my card to unlock a digital experience!</p>
-  <a href="https://github.com/ArpitKadam/arpit_kadam/raw/main/business-card-front.png" download>
+  <a href="https://github.com/ArpitKadam/ArpitKadam/blob/main/1.png" download>
     <img src="https://img.shields.io/badge/Download_My_Card-FF6B6B?style=for-the-badge&logo=download&logoColor=white" alt="Download Business Card" />
   </a>
 </div>
