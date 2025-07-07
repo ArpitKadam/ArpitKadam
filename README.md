@@ -86,44 +86,72 @@ Hello! I'm **Arpit Sachin Kadam**, a passionate last year (fourth-year) student 
 ## 🎯 Featured Projects
 <div style="display: flex; gap: 20px; overflow-x: auto; padding: 20px;">
 
-  <a href="https://github.com/ArpitKadam/JARVIS-AI-with-OpenAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=JARVIS-AI-with-OpenAI&theme=cobalt2" alt="JARVIS AI" />
-  </a>
-  <a href="https://github.com/ArpitKadam/AI-Virtual-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=AI-Virtual-Projects&theme=cobalt2" alt="AI Virtual Projects" />
-  </a>
-  <a href="https://github.com/ArpitKadam/Facial-Recognition-with-Realtime-Database">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Facial-Recognition-with-Realtime-Database&theme=cobalt2" alt="Facial Recognition" />
-  </a>
-  <a href="https://github.com/ArpitKadam/Network_Security">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Network_Security&theme=cobalt2" alt="Network Security" />
-  </a>
-  <a href="https://github.com/ArpitKadam/data-science-project-on-Wine-Quality">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=data-science-project-on-Wine-Quality&theme=cobalt2" alt="Wine Quality" />
-  </a>
-  <a href="https://github.com/ArpitKadam/Insurance-Fraud-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Insurance-Fraud-Detection&theme=cobalt2" alt="Insurance Fraud Detection" />
-  </a>
-  
-  <!-- New Projects -->
-  <a href="https://github.com/ArpitKadam/AWS-beginner-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=AWS-beginner-project&theme=cobalt2" alt="AWS Beginner Project" />
-  </a>
-  <a href="https://github.com/ArpitKadam/Remix-EtheriumIDE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Remix-EtheriumIDE&theme=cobalt2" alt="Remix-EtheriumIDE" />
-  </a>
-  <a href="https://github.com/ArpitKadam/text2text-generator-with-HuggingFace-Model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=text2text-generator-with-HuggingFace-Model&theme=cobalt2" alt="Text2Text Generator" />
-  </a>
-  <a href="https://github.com/ArpitKadam/Breast-Cancer-Prediction-using-different-Machine-Learning-Algorithms">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Breast-Cancer-Prediction-using-different-Machine-Learning-Algorithms&theme=cobalt2" alt="Breast Cancer Prediction" />
-  </a>
-  <a href="https://github.com/ArpitKadam/mlproject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=mlproject&theme=cobalt2" alt="Student Exam Performance Indicator" />
-  </a>
-  <a href="https://github.com/ArpitKadam/Car-Price-Prediction-using-Machine-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Car-Price-Prediction-using-Machine-Learning&theme=cobalt2" alt="Student Exam Performance Indicator" />
-  </a>
+<a href="https://github.com/ArpitKadam/Chest-Cancer-Classification-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Chest-Cancer-Classification-App&theme=cobalt2" alt="Chest Cancer Classification App" />
+</a>
+<a href="https://github.com/ArpitKadam/AI-Stock-Predictor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=AI-Stock-Predictor&theme=cobalt2" alt="AI Stock Predictor" />
+</a>
+<a href="https://github.com/ArpitKadam/Book-Recommender-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Book-Recommender-App&theme=cobalt2" alt="Book Recommender App" />
+</a>
+<a href="https://github.com/ArpitKadam/Zomato-Delivery-Time-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Zomato-Delivery-Time-Prediction&theme=cobalt2" alt="Zomato Delivery Time Prediction" />
+</a>
+<a href="https://github.com/ArpitKadam/Resume-Screening-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Resume-Screening-App&theme=cobalt2" alt="Resume Screening App" />
+</a>
+<a href="https://github.com/ArpitKadam/Chicken-Diseases-Classification-with-Fecal-Images">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Chicken-Diseases-Classification-with-Fecal-Images&theme=cobalt2" alt="Chicken Diseases Classification" />
+</a>
+<a href="https://github.com/ArpitKadam/GAN-Image-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=GAN-Image-Generator&theme=cobalt2" alt="GAN Image Generator" />
+</a>
+<a href="https://github.com/ArpitKadam/Plant-Diseases-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Plant-Diseases-Prediction&theme=cobalt2" alt="Plant Diseases Prediction" />
+</a>
+<a href="https://github.com/ArpitKadam/Tennis-Analysis-system-with-YOLO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Tennis-Analysis-system-with-YOLO&theme=cobalt2" alt="Tennis Analysis with YOLO" />
+</a>
+<a href="https://github.com/ArpitKadam/Football-Analysis-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Football-Analysis-System&theme=cobalt2" alt="Football Analysis System" />
+</a>
+<a href="https://github.com/ArpitKadam/Car-Price-Prediction-using-Deep-Learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Car-Price-Prediction-using-Deep-Learning&theme=cobalt2" alt="Car Price Prediction (DL)" />
+</a>
+<a href="https://github.com/ArpitKadam/FlappyBird-NEATAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=FlappyBird-NEATAI&theme=cobalt2" alt="FlappyBird NEAT AI" />
+</a>
+<a href="https://github.com/ArpitKadam/JARVIS-AI-with-OpenAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=JARVIS-AI-with-OpenAI&theme=cobalt2" alt="JARVIS AI" />
+</a>
+<a href="https://github.com/ArpitKadam/AI-Virtual-Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=AI-Virtual-Projects&theme=cobalt2" alt="AI Virtual Projects" />
+</a>
+<a href="https://github.com/ArpitKadam/Facial-Recognition-with-Realtime-Database">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Facial-Recognition-with-Realtime-Database&theme=cobalt2" alt="Facial Recognition" />
+</a>
+<a href="https://github.com/ArpitKadam/Network_Security">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Network_Security&theme=cobalt2" alt="Network Security" />
+</a>
+<a href="https://github.com/ArpitKadam/data-science-project-on-Wine-Quality">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=data-science-project-on-Wine-Quality&theme=cobalt2" alt="Wine Quality" />
+</a>
+<a href="https://github.com/ArpitKadam/Insurance-Fraud-Detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Insurance-Fraud-Detection&theme=cobalt2" alt="Insurance Fraud Detection" />
+</a>
+<a href="https://github.com/ArpitKadam/text2text-generator-with-HuggingFace-Model">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=text2text-generator-with-HuggingFace-Model&theme=cobalt2" alt="Text2Text Generator" />
+</a>
+<a href="https://github.com/ArpitKadam/Breast-Cancer-Prediction-using-different-Machine-Learning-Algorithms">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Breast-Cancer-Prediction-using-different-Machine-Learning-Algorithms&theme=cobalt2" alt="Breast Cancer Prediction" />
+</a>
+<a href="https://github.com/ArpitKadam/mlproject">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=mlproject&theme=cobalt2" alt="Student Exam Performance Indicator" />
+</a>
+<a href="https://github.com/ArpitKadam/Car-Price-Prediction-using-Machine-Learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Car-Price-Prediction-using-Machine-Learning&theme=cobalt2" alt="Car Price Prediction (ML)" />
+</a>
 
 </div>
 
