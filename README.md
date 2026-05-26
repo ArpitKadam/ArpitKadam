@@ -60,11 +60,12 @@ Hello! I'm **Arpit Sachin Kadam**, an AI/ML Engineer passionate about building r
 
 - 🔭 Currently working on: *Generative AI, RAG & Agentic AI Projects*
 - 🌱 Exploring: *LangGraph, LLMOps, AWS & Scalable AI Systems*
-- 👯 Looking to collaborate on: *AI/ML & Open Source Projects*
-- 💡 Interests: *LLMs, NLP, Deep Learning, Computer Vision & MLOps*
-- ⚡ Fun fact: *I enjoy long bike rides almost as much as building AI systems.*
-- 🚀 Goal: *Building AI products that solve real-world problems.*
-- 💻 Tech Stack: *Python, PyTorch, TensorFlow, FastAPI, Docker & AWS*
+- 👯 Looking to collaborate on: *AI/ML Projects & Research*
+- 💡 Interests: *Machine Learning, Deep Learning, Computer Vision, NLP*
+- ⚡ Fun fact: *I'm an Otaku who loves coding! 🍜*
+- 📝 Blog: *Regular writer on [Dev.to](https://dev.to/arpitkadam)*
+- 💻 Tech Stack: *GenAI, LLMs, Python, PyTorch, TensorFlow, FastAPI, Docker & AWS*
+- 🤖 My AI: *Probably smarter than me, but still can't figure out how to debug the code.*
 
 ## 💻 Tech Stack
 <div align="center">
