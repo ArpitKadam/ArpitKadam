@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&height=60&width=1000&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+LLM+%26+RAG+Systems;Open+Source+Contributor;AI+Agents+%26+Automation)](https://git.io/typing-svg)
 
 <p align="center">
-Final-year AI/ML engineer building RAG systems, agentic workflows, and transformers from scratch. Currently an AI Engineer Intern at Someware Intelligence.
+AI/ML engineer building RAG systems, agentic workflows, and transformers from scratch. Currently an AI Engineer Intern at Someware Intelligence.
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ Final-year AI/ML engineer building RAG systems, agentic workflows, and transform
 <img align="right" alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxtbDNqOXJtNGFrNmo2Y2ZkZnljNTJyaWt6YWw1eWJmODVmbXNrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="300" height="350" style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
   
-I'm **Arpit Kadam**, an AI/ML engineer from Vasai, Mumbai, wrapping up my B.E. in Artificial Intelligence & Machine Learning. Right now I'm an AI Engineer Intern at **Someware Intelligence**, building agentic workflows with tool-calling and multi-step reasoning. I like taking an idea from a rough notebook to something that actually runs: RAG pipelines, LLM apps, and the occasional transformer built from scratch just to see how it works underneath.
+I'm **Arpit Kadam**, an AI/ML engineer from Vasai, Mumbai, with a B.E. in Artificial Intelligence & Machine Learning. Right now I'm an AI Engineer Intern at **Someware Intelligence**, building agentic workflows with tool-calling and multi-step reasoning. I like taking an idea from a rough notebook to something that actually runs: RAG pipelines, LLM apps, and the occasional transformer built from scratch just to see how it works underneath.
 
 - **Now:** Agentic AI and RAG systems, plus the internship at Someware Intelligence
 - **Learning:** LangGraph, LLMOps, and AWS
