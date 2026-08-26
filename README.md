@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center">Hi there, I'm Arpit! 👋</h1>
-<h3 align="center">🤖 AI/ML Engineer | Generative AI • LLMs • MLOps</h3>
+<h3 align="center">AI/ML Engineer · Generative AI · LLMs · MLOps</h3>
 
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&height=60&width=1000&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+LLM+%26+RAG+Systems;Open+Source+Contributor;AI+Agents+%26+Automation)](https://git.io/typing-svg)
 
 <p align="center">
-Building production-ready AI applications, LLM systems, RAG pipelines, and intelligent automation workflows.
+Final-year AI/ML engineer building RAG systems, agentic workflows, and transformers from scratch. Currently an AI Engineer Intern at Someware Intelligence.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Building production-ready AI applications, LLM systems, RAG pipelines, and intel
   </p>
 </div>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![Personal Website](https://img.shields.io/badge/Personal-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arpit-kadam.netlify.app/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitkadam922@gmail.com)
@@ -48,7 +48,7 @@ Building production-ready AI applications, LLM systems, RAG pipelines, and intel
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 <div style="display: flex; align-items: center; gap: 20px;">
 <div style="flex: 1;">
 
@@ -56,18 +56,29 @@ Building production-ready AI applications, LLM systems, RAG pipelines, and intel
 <img align="right" alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxtbDNqOXJtNGFrNmo2Y2ZkZnljNTJyaWt6YWw1eWJmODVmbXNrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="300" height="350" style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
   
-Hello! I'm **Arpit Sachin Kadam**, an AI/ML Engineer passionate about building real-world AI systems using Generative AI, LLMs, Computer Vision, and intelligent automation. I enjoy transforming complex ideas into scalable AI solutions and continuously exploring emerging technologies in the AI space.
+I'm **Arpit Kadam**, an AI/ML engineer from Vasai, Mumbai, wrapping up my B.E. in Artificial Intelligence & Machine Learning. Right now I'm an AI Engineer Intern at **Someware Intelligence**, building agentic workflows with tool-calling and multi-step reasoning. I like taking an idea from a rough notebook to something that actually runs: RAG pipelines, LLM apps, and the occasional transformer built from scratch just to see how it works underneath.
 
-- 🔭 Currently working on: *Generative AI, RAG & Agentic AI Projects*
-- 🌱 Exploring: *LangGraph, LLMOps, AWS & Scalable AI Systems*
-- 👯 Looking to collaborate on: *AI/ML Projects & Research*
-- 💡 Interests: *Machine Learning, Deep Learning, Computer Vision, NLP*
-- ⚡ Fun fact: *I'm an Otaku who loves coding! 🍜*
-- 📝 Blog: *Regular writer on [Dev.to](https://dev.to/arpitkadam)*
-- 💻 Tech Stack: *GenAI, LLMs, Python, PyTorch, TensorFlow, FastAPI, Docker & AWS*
-- 🤖 My AI: *Probably smarter than me, but still can't figure out how to debug the code.*
+- **Now:** Agentic AI and RAG systems, plus the internship at Someware Intelligence
+- **Learning:** LangGraph, LLMOps, and AWS
+- **Writing:** the occasional post on [Dev.to](https://dev.to/arpitkadam)
+- **Off the clock:** anime, football, and long bike rides
 
-## 💻 Tech Stack
+## Experience
+
+**AI Engineer Intern** · Someware Intelligence Systems · *Jul 2026 – Present*  
+Building agentic AI workflows with tool-calling and multi-step reasoning to automate internal processes. Prompt engineering, agent-framework evaluation, and large-scale data cleaning for downstream LLM pipelines.  
+`Claude Code` · `Google Agentic ADK` · `LangChain` · `LangGraph` · `Python`
+
+**Machine Learning Intern** · NoviTech R&D · *Oct 2024 – Nov 2024*  
+Built neural network models with TensorFlow and Keras on real-world datasets, and worked across the training and evaluation pipeline.  
+`Python` · `TensorFlow` · `Keras` · `Deep Learning`
+
+## Education
+
+**B.E. Artificial Intelligence & Machine Learning** — 2026  
+Shivajrao S. Jondhale College of Engineering, University of Mumbai
+
+## Tech Stack
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -106,7 +117,7 @@ Hello! I'm **Arpit Sachin Kadam**, an AI/ML Engineer passionate about building r
 
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -152,35 +163,35 @@ Production-ready RAG-based document intelligence platform using NVIDIA LLMs, sem
 <tr>
 
 <td width="50%">
-<h3 align="center">🤖 Multi-Tool Agentic ChatBot</h3>
+<h3 align="center">🎬 ReelsNote.ai</h3>
 
 <p align="center">
-Multi-agent conversational AI system with tool-calling, workflow orchestration, and intelligent task execution.
+Agentic pipeline that turns short-form social videos into rigorous, printable study notes with automated transcription and structuring.
 </p>
 
 <p align="center">
-<b>LangGraph • AI Agents • LLMs</b>
+<b>Agentic AI • LLMs • Automation</b>
 </p>
 
 <p align="center">
-<a href="https://github.com/ArpitKadam/Multi-Tool-Agentic-ChatBot">🔗 View Project</a>
+<a href="https://github.com/ArpitKadam/ReelsNote.ai">🔗 View Project</a>
 </p>
 
 </td>
 
 <td width="50%">
-<h3 align="center">🩺 Chest Cancer Classification</h3>
+<h3 align="center">👗 Agentic Lookbook Generator</h3>
 
 <p align="center">
-Full-stack deep learning application for chest X-ray classification with Dockerized deployment and CI/CD workflows.
+Production-grade multi-agent AI system (AINAA) that transforms raw fashion images into publication-ready editorial lookbooks.
 </p>
 
 <p align="center">
-<b>TensorFlow • Flask • DVC • GitHub Actions</b>
+<b>Multi-Agent AI • Computer Vision • GenAI</b>
 </p>
 
 <p align="center">
-<a href="https://github.com/ArpitKadam">🔗 View Project</a>
+<a href="https://github.com/ArpitKadam/Agentic-Lookbook-Generator">🔗 View Project</a>
 </p>
 
 </td>
@@ -188,23 +199,6 @@ Full-stack deep learning application for chest X-ray classification with Dockeri
 </tr>
 
 <tr>
-
-<td width="50%">
-<h3 align="center">📈 AI Stock Predictor</h3>
-
-<p align="center">
-AI-powered stock and cryptocurrency prediction platform with interactive visualizations and deep learning forecasting models.
-</p>
-
-<p align="center">
-<b>TensorFlow • Flask • Time Series Forecasting</b>
-</p>
-
-<p align="center">
-<a href="https://github.com/ArpitKadam/AI-Stock-Predictor">🔗 View Project</a>
-</p>
-
-</td>
 
 <td width="50%">
 <h3 align="center">🧭 Guidely.ai</h3>
@@ -223,6 +217,23 @@ AI-powered intelligent travel planning platform designed to generate optimized a
 
 </td>
 
+<td width="50%">
+<h3 align="center">🚧 Coming Soon</h3>
+
+<p align="center">
+Reserved for my next project — something exciting is brewing here. Stay tuned! 🔥
+</p>
+
+<p align="center">
+<b>Next Big Thing • WIP</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/ArpitKadam?tab=repositories">🔗 Explore All Projects</a>
+</p>
+
+</td>
+
 </tr>
 
 </table>
@@ -231,7 +242,7 @@ AI-powered intelligent travel planning platform designed to generate optimized a
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArpitKadam&show_icons=true&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true" />
@@ -241,7 +252,7 @@ AI-powered intelligent travel planning platform designed to generate optimized a
 
 </div>
 
-## 🎯 Hobbies & Interests
+## Hobbies & Interests
 
 <table align="center">
 <tr>
@@ -283,7 +294,7 @@ AI-powered intelligent travel planning platform designed to generate optimized a
 </tr>
 </table>
 
-## ✨ Quote of the Day
+## Quote of the Day
 
 <div align="center">
 
@@ -291,7 +302,7 @@ AI-powered intelligent travel planning platform designed to generate optimized a
 
 </div>
 
-## ☕ I Love Coffee!!!
+## Coffee
 ![GIF](https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif)
 
 <a href="https://www.buymeacoffee.com/ArpitKadam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
