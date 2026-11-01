@@ -1,0 +1,167 @@
+\documentclass[letterpaper,10.5pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.6in}
+\addtolength{\textwidth}{1.2in}
+\addtolength{\topmargin}{-0.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{2pt}]
+
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{
+  \item\small{#1 \vspace{-2pt}}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \vspace{5pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}
+}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.18in, itemsep=0pt, topsep=0pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Arpit Kadam} \\ \vspace{2pt}
+    \textbf{\small AI Engineer \ $|$ \ Generative AI \& LLM Systems} \\ \vspace{4pt}
+    \small Vasai, Mumbai $|$ 8767375722 $|$
+    \href{mailto:arpitkadam922@gmail.com}{arpitkadam922@gmail.com} $|$
+    \href{https://www.linkedin.com/in/arpitkadam/}{LinkedIn} $|$
+    \href{https://arpitkadam.online/}{Personal Website} $|$
+    \href{https://github.com/ArpitKadam}{GitHub}
+\end{center}
+
+%-----------SUMMARY-----------
+\section{Summary}
+\small{AI/ML Engineer specializing in \textbf{Generative AI}, \textbf{LLMs}, \textbf{RAG systems}, and intelligent automation. Experienced in building production-ready \textbf{AI applications}, \textbf{transformer architectures}, \textbf{agentic workflows}, and scalable \textbf{ML pipelines} using Python, PyTorch, TensorFlow, FastAPI, Docker, and AWS. Strong understanding of \textbf{deep learning}, \textbf{NLP}, and \textbf{MLOps} with hands-on experience developing real-world AI solutions across document intelligence, healthcare, and predictive systems.}
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, SQL} \\
+     \textbf{Generative AI \& LLMs}{: LLMs, Generative AI, RAG, LangChain, LangGraph, AI Agents, Prompt Engineering, Vector Databases, LLMOps} \\
+     \textbf{ML/DL}{: Machine Learning, Deep Learning, Transformers, Computer Vision, NLP} \\
+     \textbf{Frameworks}{: PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, FastAPI, Flask, Streamlit} \\
+     \textbf{MLOps \& Tools}{: Docker, MLflow, DVC, GitHub Actions, AWS, CI/CD} \\
+     \textbf{Other}{: PostgreSQL, FAISS, ChromaDB, Pinecone, Hugging Face, Ollama, OpenAI APIs, Gemini APIs, Git, Linux, Data Analysis \& Visualization}
+    }}
+ \end{itemize}
+
+%-----------EXPERIENCE-----------
+\section{Professional Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {\href{https://github.com/ArpitKadam/ArpitKadam/blob/main/Documents/Arpit_Someware_Internship_Offer_Letter.pdf}{Someware Intelligence Systems Pvt. Ltd.}}{Jul 2026 -- Present}
+      {AI Engineer Intern}{}
+      \resumeItemListStart
+        \resumeItem{\textbf{\href{https://www.ainaa.ai/}{Ainaa}} (live AI fashion stylist for India, in active development): built the taste-ledger personalization layer (per-shopper evidence model in MongoDB, occasion-aware budget bands, undoable migration with shadow-read rollout; 406 unit and 73 integration tests) and a hermetic regression-test harness for the stylist backend.}
+        \resumeItem{\textbf{\href{https://kranticookbook.com}{Kranti Cookbook}} (RAG cookbook chat for Indian recipes): built multilingual chat across 7 Indian languages, a community recipe pipeline (LLM moderation, email OTP) and a transactional email system; reached 1,200+ devices and 5,700+ messages in under 3 months.}
+        \resumeItem{Built agentic AI workflows with tool-calling and multi-step reasoning using Claude Code and Google ADK; evaluated agent frameworks (LangChain, LangGraph) and cleaned large datasets for downstream LLM pipelines.}
+        \resumeItem{\textbf{Technologies}: Python, MongoDB, Pinecone, Gemini, Claude Code, Google Agentic ADK, LangChain, LangGraph}
+      \resumeItemListEnd
+
+    \vspace{5pt}
+    \resumeSubheading
+      {\href{https://github.com/ArpitKadam/ArpitKadam/blob/main/Documents/Novitech_Internship_Certificate.pdf}{NoviTech R\&D Pvt. Ltd.}}{Oct 2024 -- Nov 2024}
+      {Machine Learning Intern}{}
+      \resumeItemListStart
+        \resumeItem{Worked on AI and machine learning research projects focused on automation and predictive modeling.}
+        \resumeItem{Built neural network models using TensorFlow and Keras for real-world datasets.}
+        \resumeItem{Contributed to experimentation, training, and evaluation pipelines.}
+        \resumeItem{\textbf{Technologies}: Python, Machine Learning, Deep Learning, TensorFlow, Data Analysis}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+
+      \resumeProjectHeading
+          {\href{https://github.com/ArpitKadam/Tunecast}{\textbf{Tunecast}} -- Self-Hosted Music Generation}{}
+          \resumeItemListStart
+            \resumeItem{Deployed MiniMax Music 3 on a rented RunPod GPU pod behind a web app and REST API, packaged as one Docker image with FastAPI, a SQLite job queue, bearer-key auth, the SGLang-Omni inference server and an ngrok tunnel.}
+            \resumeItem{Measured one end-to-end run: pod ready in 148 s and a 149 s song generated for about US\$0.085; pods are terminated after use so nothing bills while idle.}
+            \resumeItem{Added CI that builds and pushes the Docker image on every push to main, and an offline demo that replays recorded output without a GPU.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\href{https://github.com/ArpitKadam/Attention-Is-All-You-Code}{\textbf{Attention Is All You Code}}}{}
+          \resumeItemListStart
+            \resumeItem{Built a from-scratch ML and LLM curriculum in PyTorch and NumPy: activation functions and optimizers, a 14-chapter GPT-2 (124M), and reconstructions of Gemma3-270M, OLMo-3 7B and Qwen3 Coder 30B.}
+            \resumeItem{Implemented RMSNorm, RoPE/YaRN, grouped-query attention, SwiGLU and mixture-of-experts layers to understand modern LLM internals.}
+            \resumeItem{Covered fine-tuning end to end: LoRA/QLoRA, knowledge distillation and quantization (PTQ, QAT, GPTQ, AWQ, GGUF), with experiment tracking in Weights \& Biases.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\href{https://github.com/ArpitKadam/DocuXment-App}{\textbf{DocuXment App}} -- RAG Document Intelligence}{}
+          \resumeItemListStart
+            \resumeItem{Built a RAG platform for question answering over insurance documents using NVIDIA-hosted LLMs, with ingestion of PDF, DOCX, PPTX, XLSX and TXT files or document links and OCR for scanned pages.}
+            \resumeItem{Combined FAISS for local retrieval and Pinecone for production-scale retrieval, with reranking, context compression and response caching.}
+            \resumeItem{Exposed a bearer-authenticated FastAPI endpoint with latency and accuracy tracking, plus a Flask web UI; deployed on Render.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\href{https://github.com/ArpitKadam/ReelsNote.ai}{\textbf{ReelsNote AI}} -- Agentic Video-to-Notes Pipeline}{}
+          \resumeItemListStart
+            \resumeItem{Built a four-agent LangGraph pipeline that turns a short-form video URL into a typeset study PDF: download and Whisper transcription, video-language-model analysis, LLM report synthesis, and PDF rendering with real math notation.}
+            \resumeItem{Fused audio, on-screen visuals and caption into one report; every stage caches its output, so re-running a URL is free and each new reel is appended to an indexed notebook.}
+            \resumeItem{Added GPU transcription with CPU fallback and a CI hook that delivers each rebuilt notebook to Telegram.}
+          \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Shivajrao S. Jondhale College of Engineering, Mumbai University}{2026}
+      {B.E. in Artificial Intelligence \& Machine Learning}{}
+  \resumeSubHeadingListEnd
+
+\end{document}

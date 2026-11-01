@@ -14,7 +14,7 @@ AI/ML engineer building RAG systems, agentic workflows, and transformers from sc
 </p>
 
 <p align="center">
-  <a href="https://arpit-kadam.netlify.app/">Portfolio</a> •
+  <a href="https://arpitkadam.online">Portfolio</a> •
   <a href="https://github.com/ArpitKadam">Projects</a> •
   <a href="https://www.linkedin.com/in/arpitkadam/">LinkedIn</a>
 </p>
@@ -26,7 +26,7 @@ AI/ML engineer building RAG systems, agentic workflows, and transformers from sc
 </div>
 
 <div align="center" style="margin: 30px 0">
-  <img src="https://github.com/ArpitKadam/ArpitKadam/blob/main/1.png" alt="Business Card" width="400px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="Business%20Card/1.png" alt="Business Card" width="400px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   
   <p style="margin-top: 10px; font-style: italic;">
     📱 Scan the QR code to connect with me and explore my work.
@@ -35,7 +35,7 @@ AI/ML engineer building RAG systems, agentic workflows, and transformers from sc
 
 ## Connect With Me
 
-[![Personal Website](https://img.shields.io/badge/Personal-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arpit-kadam.netlify.app/)
+[![Personal Website](https://img.shields.io/badge/Personal-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arpitkadam.online)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitkadam922@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitkadam/)
 [![DAGsHub](https://img.shields.io/badge/DAGsHub-231F20?style=for-the-badge&logo=dagshub&logoColor=white)](https://dagshub.com/ArpitKadam)
@@ -49,13 +49,11 @@ AI/ML engineer building RAG systems, agentic workflows, and transformers from sc
 </div>
 
 ## About Me
-<div style="display: flex; align-items: center; gap: 20px;">
-<div style="flex: 1;">
 
-</div>
-<img align="right" alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxtbDNqOXJtNGFrNmo2Y2ZkZnljNTJyaWt6YWw1eWJmODVmbXNrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="300" height="350" style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</div>
-  
+<table>
+<tr>
+<td valign="top">
+
 I'm **Arpit Kadam**, an AI/ML engineer from Vasai, Mumbai, with a B.E. in Artificial Intelligence & Machine Learning. Right now I'm an AI Engineer Intern at **Someware Intelligence**, building agentic workflows with tool-calling and multi-step reasoning. I like taking an idea from a rough notebook to something that actually runs: RAG pipelines, LLM apps, and the occasional transformer built from scratch just to see how it works underneath.
 
 - **Now:** Agentic AI and RAG systems, plus the internship at Someware Intelligence
@@ -63,11 +61,21 @@ I'm **Arpit Kadam**, an AI/ML engineer from Vasai, Mumbai, with a B.E. in Artifi
 - **Writing:** the occasional post on [Dev.to](https://dev.to/arpitkadam)
 - **Off the clock:** anime, football, and long bike rides
 
+</td>
+<td width="380" valign="middle">
+<img alt="Terminal animation of an AI agent run" src="assets/terminal.svg" width="380">
+</td>
+</tr>
+</table>
+
 ## Experience
 
 **AI Engineer Intern** · Someware Intelligence Systems · *Jul 2026 – Present*  
-Building agentic AI workflows with tool-calling and multi-step reasoning to automate internal processes. Prompt engineering, agent-framework evaluation, and large-scale data cleaning for downstream LLM pipelines.  
-`Claude Code` · `Google Agentic ADK` · `LangChain` · `LangGraph` · `Python`
+Building agentic AI workflows with tool-calling and multi-step reasoning to automate internal processes. Prompt engineering, agent-framework evaluation, and large-scale data cleaning for downstream LLM pipelines.
+- **Shipped:** [Ainaa](https://www.ainaa.ai/), a live AI fashion-shopping stylist for India, in active development. Built the taste-ledger personalization layer (per-shopper evidence model, undoable migration, shadow-read rollout) and a hermetic regression-test harness for the stylist backend.
+- **Shipped:** [Kranti Cookbook](https://kranticookbook.com), a multilingual RAG cookbook chat for Indian recipes. Built chat in 7 Indian languages, a community recipe-submission pipeline with LLM moderation and email OTP verification, a transactional email system, and automated checks and evals. 1,200+ devices and 5,700+ messages in under 3 months.
+
+`Claude Code` · `Google Agentic ADK` · `LangChain` · `LangGraph` · `FastAPI` · `MongoDB` · `Qdrant` · `Pinecone` · `Gemini` · `Python`
 
 **Machine Learning Intern** · NoviTech R&D · *Oct 2024 – Nov 2024*  
 Built neural network models with TensorFlow and Keras on real-world datasets, and worked across the training and evaluation pipeline.  
@@ -125,6 +133,23 @@ Shivajrao S. Jondhale College of Engineering, University of Mumbai
 <tr>
 
 <td width="50%">
+<h3 align="center">🎙️ Tunecast</h3>
+
+<p align="center">
+Self-hosted MiniMax-Music3 song generation running on a RunPod GPU pod.
+</p>
+
+<p align="center">
+<b>Generative AI • Music • GPU Inference</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/ArpitKadam/Tunecast">🔗 View Project</a>
+</p>
+
+</td>
+
+<td width="50%">
 <h3 align="center">🧠 Attention Is All You Code</h3>
 
 <p align="center">
@@ -140,6 +165,10 @@ Built a transformer architecture from scratch in PyTorch to understand modern LL
 </p>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 <h3 align="center">📄 DocuXment App</h3>
@@ -158,10 +187,6 @@ Production-ready RAG-based document intelligence platform using NVIDIA LLMs, sem
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
 <h3 align="center">🎬 ReelsNote.ai</h3>
 
@@ -178,6 +203,10 @@ Agentic pipeline that turns short-form social videos into rigorous, printable st
 </p>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 <h3 align="center">👗 Agentic Lookbook Generator</h3>
@@ -196,10 +225,6 @@ Production-grade multi-agent AI system (AINAA) that transforms raw fashion image
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
 <h3 align="center">🧭 Guidely.ai</h3>
 
@@ -217,23 +242,6 @@ AI-powered intelligent travel planning platform designed to generate optimized a
 
 </td>
 
-<td width="50%">
-<h3 align="center">🚧 Coming Soon</h3>
-
-<p align="center">
-Reserved for my next project — something exciting is brewing here. Stay tuned! 🔥
-</p>
-
-<p align="center">
-<b>Next Big Thing • WIP</b>
-</p>
-
-<p align="center">
-<a href="https://github.com/ArpitKadam?tab=repositories">🔗 Explore All Projects</a>
-</p>
-
-</td>
-
 </tr>
 
 </table>
@@ -245,9 +253,9 @@ Reserved for my next project — something exciting is brewing here. Stay tuned!
 ## GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArpitKadam&show_icons=true&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitKadam&theme=cobalt2&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKadam&layout=compact&theme=cobalt2&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ArpitKadam&show_icons=true&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=ArpitKadam&theme=cobalt2&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArpitKadam&layout=compact&theme=cobalt2&hide_border=true" />
 </div>
 
 </div>
